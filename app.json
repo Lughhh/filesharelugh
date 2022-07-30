@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Lughhh/File-Sharing-yey",
+  "repository": "https://github.com/Lughhh/filesharelugh",
   "logo": ,
   "env": {
     "TG_BOT_TOKEN": {
@@ -37,7 +37,7 @@
       "description": "Masukan ID Channel Untuk [Channel Database]",
       "value": "-100"
     },
-    "FORCE_SUB_CHANNEL_1": {
+    "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
       "value": "0"
     },
