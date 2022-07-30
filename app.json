@@ -7,7 +7,6 @@
     "sharing"
   ],
   "repository": "https://github.com/Lughhh/filesharelugh",
-  "logo": ,
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
