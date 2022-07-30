@@ -23,6 +23,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.**
 ##
 ### Installation
 #### Deploy on Web heroku 
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lughhh/filesharelugh</br>
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -31,7 +32,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.**
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/putraicipiyey/filesharing
+git clone https://github.com/Lughhh/filesharelugh
 cd filesharing
 pip3 install -r requirements.txt
 cp sample_config.env config.env
